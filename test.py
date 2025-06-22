@@ -4,3 +4,8 @@ def add(a,b):
 
 print(add(1,2))    
 print("This is a test file")
+
+def diff(a,b):
+    result=a-b
+    return result
+print(diff(5,3))
