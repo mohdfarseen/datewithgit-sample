@@ -9,3 +9,5 @@ def diff(a,b):
     result=a-b
     return result
 print(diff(5,3))
+print("can we meet tomorrow?")
+print("no")
