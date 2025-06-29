@@ -12,4 +12,5 @@ print(diff(5,3))
 print("can we meet tomorrow?")
 print("no")
 print("yes")
-
+print("waht is yor age?")
+print("I am 25 years old")
